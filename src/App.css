@@ -1,0 +1,9 @@
+.pointer {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+}
+
+.wheel {
+    transition: 2s ease-in-out;
+}
